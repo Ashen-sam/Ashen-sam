@@ -1,9 +1,6 @@
-# **<div align="center">Hey 👋, I'm Ashen Sam!</div>**  
+# <div align="center">Hey 👋, I'm Ashen Sam!</div>
 <div align="center">
-### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
-
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs. <br><br>
+ Glad to see you here pals! I’m an undergraduate student pursuing a Software Engineering degree program. I like very much in web and mobile development and I'm currently learning in those areas and trying to be good and best at that areas, I'm following basic languages like HTML, CSS, and js in web-dev and I'm learning Java and react for further self-improvement because its the most demanded languages in tech right now. You can see my individual and group projects on this platform.</div>  <br><br>
 </div>
 <div align="center">
 <a href="https://github.com/https://github.com/Ashen-sam" target="_blank">
@@ -23,7 +20,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 </a>  
 </div>  <br>
   
-# <h3 align="center">Languages and Technologies</h3><br>
+# <h2 align="center">Languages and Technologies</h2><br>
 <div align="center">
   
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,7 +33,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 
-<h3 align="center" >Statistics</h3>
+<h2 align="center" >Statistics</h2>
 <div align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashen-sam&theme=transparent" height="180em" />
 <a href="https://github.com/Ashen-sam">
