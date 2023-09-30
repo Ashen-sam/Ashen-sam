@@ -3,19 +3,19 @@
  Glad to see you here pals! I’m an undergraduate student pursuing a Software Engineering degree program. I like very much in web and mobile development and I'm currently learning in those areas and trying to be good and best at that areas, I'm following basic languages like HTML, CSS, and js in web-dev and I'm learning Java and react for further self-improvement because its the most demanded languages in tech right now. You can see my individual and group projects on this platform.</div>  <br><br>
 </div>
 <div align="center">
-<a href="https://github.com/https://github.com/Ashen-sam" >
+<a href="https://github.com/Ashen-sam" >
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/https://twitter.com/AshenSamar17513" >
+<a href="https://twitter.com/AshenSamar17513" >
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/https://dev.to/ashensam" >
+<a href="https://dev.to/ashensam" >
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/ashen-samarasekera-08354a249/" >
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20255884/ashen-samarasekera">
+<a href="https://stackoverflow.com/users/20255884/ashen-samarasekera?tab=profile">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  <br>
