@@ -12,7 +12,7 @@
 <a href="https://dev.to/https://dev.to/ashensam" >
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashen-samarasekera-08354a249/" >
+<a href="[https://www.linkedin.com/in/ashen-samarasekera-08354a249/](https://www.linkedin.com/in/ashen-samarasekera-08354a249/)" >
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20255884/ashen-samarasekera">
