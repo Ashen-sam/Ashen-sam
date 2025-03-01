@@ -11,7 +11,7 @@
 # <h3 >Teck Stack</h3>
 <div>
 
-  [![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,tailwind,typescript,redux,nextjs)](https://skillicons.dev)
 
 
 </div>
