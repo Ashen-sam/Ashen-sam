@@ -1,30 +1,41 @@
-# <div style="display:flex">Hey 🧦, I'm Ashen Sam!   </div>
+# <div style="display:flex">Hey 🧦, I'm Ashen Sam!</div>
 
-<div >
+<p>
+Glad to see you here! I’m an undergraduate student pursuing a Software Engineering degree.  
+I enjoy web and mobile development and am constantly learning and improving my skills.  
+Currently, I work with **HTML, CSS, JS** for web development and learning **Java & React** for advanced projects.  
+You can explore my projects on my portfolio: <a href="https://ashen-samarasekera.vercel.app/">Visit me</a>
+</p>
 
-<div> </div>
-
- 
-<p> Glad to see you here pals! I’m an undergraduate student pursuing a Software Engineering degree program. I like very much in web and mobile development and I'm currently learning in those areas and trying to be good and best at that areas, I'm following basic languages like HTML, CSS, and js in web-dev and I'm learning Java and react for further self-improvement because its the most demanded languages in tech right now. You can see my individual and group projects on this platform.<a href="https://ashen-samarasekera.vercel.app//">visit me</a></div>  
-</div>
-  
-# <h3 >Teck Stack</h3>
-<div>
-
-  [![My Skills](https://skillicons.dev/icons?i=react,tailwind,typescript,redux,nextjs)](https://skillicons.dev)
-
-
-</div>
-  <div>
-<h3>Tools</h3>
-
-  [![My Skills](https://skillicons.dev/icons?i=vscode,vercel,github,git,postman)](https://skillicons.dev)
-</div>
-<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashen-sam&theme=transparent" height="170em" />
-<a href="https://github.com/Ashen-sam">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashen-sam&theme=transparent" height="170em" /> -->
+---
+[![HTML, CSS, JS](https://skillicons.dev/icons?i=html,css,js)](https://developer.mozilla.org)
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
+[![MUI](https://skillicons.dev/icons?i=mui)](https://mui.com)
+[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org)
+[![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
+[![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com)
 
 
 
 
+---
+
+
+## GitHub Activity
+
+
+<p >
+  <img 
+    alt="Ashen's GitHub Stats" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashen-sam&theme=dark" 
+    style="border-radius:15px; background: rgba(0, 0, 0, 0.5); padding:10px;"
+  />
+</p>
 
