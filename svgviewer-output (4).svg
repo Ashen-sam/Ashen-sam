@@ -1,0 +1,16 @@
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .icon-bg { fill: #242938; }
+      .icon-logo { fill: #0078d4; }
+    </style>
+  </defs>
+  
+  <!-- Background rounded square -->
+  <rect width="48" height="48" rx="9" class="icon-bg"/>
+  
+  <!-- Azure DevOps logo centered and scaled -->
+  <g transform="translate(10, 10) scale(0.21875)">
+    <path class="icon-logo" d="M120.89 28.445v69.262l-28.445 23.324-44.09-16.07v15.93L23.395 88.25l72.746 5.688V31.574ZM96.64 31.93 55.82 7.11v16.285L18.348 34.418 7.109 48.852v32.785l16.075 7.11V46.718Z"/>
+  </g>
+</svg>
