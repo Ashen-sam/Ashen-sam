@@ -1,6 +1,7 @@
 # <div style="display:flex">Hey 🧦, I'm Ashen </div>
 
-Glad to see you here! I’m an undergraduate student pursuing a Software Engineering degree. I enjoy building high-quality applications with modern web technologies and constantly improving my skills. Currently, I work with **React, Redux, and RTK Query** for state management, **Next.js** for server-side rendering, **Node.js & Express** for backend development, and **Supabase** for database and authentication solutions.  
+Glad to see you here! I’m a Software Engineering graduate who loves building clean and high-quality applications using modern web technologies. I enjoy learning new things and improving my skills every day.
+Right now, I work with React, Redux, and RTK Query for state management, Next.js for server-side rendering, Node.js ,.Net & Express for backend work, and Supabase for database and authentication.
 You can explore my projects on my portfolio: [Visit me](https://ashen-samarasekera.vercel.app/)
 
 
