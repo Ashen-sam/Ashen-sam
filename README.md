@@ -4,7 +4,9 @@ Glad to see you here! I’m a Software Engineering graduate who loves building c
 Right now, I work with React, Redux, and RTK Query for state management, Next.js for server-side rendering, Node.js ,.Net & Express for backend work, and Supabase for database and authentication.
 You can explore my projects on my portfolio: [Visit me](https://ashen-samarasekera.vercel.app/)
 
+ 
 
+ 
 
 
 
@@ -31,20 +33,22 @@ You can explore my projects on my portfolio: [Visit me](https://ashen-samaraseke
 
 
 ## GitHub Activity
-
-  <div style="padding: 4px; border: 1px solid #1877F2; border-radius: 6px;">
-    <img src="https://img.shields.io/badge/219_Contributions_in_2025-1877F2?style=flat&logo=github&logoColor=white" />
-  </div>
-  <div style="padding: 4px; border: 1px solid #E53935; border-radius: 6px; ">
-    <img src="https://img.shields.io/badge/21_Public_Repos-E53935?style=flat&logo=github&logoColor=white" />
-  </div>
-  <div style="padding: 4px; border: 1px solid #FB8C00; border-radius: 6px;">
-    <img src="https://img.shields.io/badge/Joined_2_years_ago-FB8C00?style=flat&logo=clockify&logoColor=white" />
-  </div>
-  <div style="padding: 10px; border: 1px solid #43A047; border-radius: 6px; ">
-    <img  src="https://img.shields.io/badge/iamashen27@gmail.com-43A047?style=flat&logo=gmail&logoColor=white" />
-  </div>
-
-
-
+  <p align="left">
+  <a href="https://github.com/ashen-samarasekera">
+    <img alt="Contributions" title="2025 Contributions" 
+    src="https://img.shields.io/badge/219_Contributions_in_2025-1877F2?style=for-the-badge&logo=github&logoColor=white&labelColor=0d47a1"/>
+  </a>
+  <a href="https://github.com/ashen-samarasekera?tab=repositories">
+    <img alt="Public Repos" title="Public Repositories" 
+    src="https://img.shields.io/badge/21_Public_Repos-E53935?style=for-the-badge&logo=github&logoColor=white&labelColor=b71c1c"/>
+  </a>
+  <a href="https://github.com/ashen-samarasekera">
+    <img alt="Joined" title="Joined GitHub" 
+    src="https://img.shields.io/badge/Joined_2_years_ago-FB8C00?style=for-the-badge&logo=clockify&logoColor=white&labelColor=ef6c00"/>
+  </a>
+  <a href="mailto:iamashen27@gmail.com">
+    <img alt="Email" title="Email Me" 
+    src="https://img.shields.io/badge/iamashen27@gmail.com-43A047?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1b5e20"/>
+  </a>
+</p>
 
